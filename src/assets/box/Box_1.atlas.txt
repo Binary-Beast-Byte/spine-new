@@ -1,0 +1,111 @@
+
+Box_1.png
+size: 1925,989
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Path
+  rotate: true
+  xy: 742, 21
+  size: 335, 262
+  orig: 335, 262
+  offset: 0, 0
+  index: -1
+Path + Path
+  rotate: false
+  xy: 1428, 615
+  size: 495, 372
+  orig: 495, 372
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 304
+  size: 676, 683
+  orig: 676, 683
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 2
+  size: 300, 245
+  orig: 302, 247
+  offset: 1, 1
+  index: -1
+box_green
+  rotate: true
+  xy: 249, 2
+  size: 300, 245
+  orig: 300, 245
+  offset: 0, 0
+  index: -1
+box_y
+  rotate: true
+  xy: 496, 2
+  size: 300, 244
+  orig: 300, 244
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 1135, 43
+  size: 313, 126
+  orig: 315, 128
+  offset: 1, 1
+  index: -1
+cap_green
+  rotate: false
+  xy: 1588, 487
+  size: 313, 126
+  orig: 313, 126
+  offset: 0, 0
+  index: -1
+cap_y
+  rotate: true
+  xy: 1006, 43
+  size: 313, 127
+  orig: 313, 127
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 1428, 453
+  size: 158, 160
+  orig: 158, 160
+  offset: 0, 0
+  index: -1
+gliter
+  rotate: true
+  xy: 680, 358
+  size: 629, 456
+  orig: 629, 456
+  offset: 0, 0
+  index: -1
+ribban
+  rotate: true
+  xy: 1260, 363
+  size: 624, 166
+  orig: 624, 166
+  offset: 0, 0
+  index: -1
+ribban_green
+  rotate: false
+  xy: 1263, 196
+  size: 622, 165
+  orig: 622, 165
+  offset: 0, 0
+  index: -1
+ribban_y
+  rotate: false
+  xy: 1263, 29
+  size: 622, 165
+  orig: 622, 165
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 1138, 359
+  size: 628, 120
+  orig: 628, 120
+  offset: 0, 0
+  index: -1
